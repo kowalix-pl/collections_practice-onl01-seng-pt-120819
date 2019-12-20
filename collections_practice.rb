@@ -41,8 +41,10 @@ def find_a (array)
 end
 end
   
-  def sum_array (number)
-array.inject do 
-end
+  def sum_array (numbers)
+
+    numbers.inject do 
+      
+  end
 end 
   
